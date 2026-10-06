@@ -82,8 +82,8 @@ Make sure you have **Node.js (v18 or higher)** and **npm** installed on your mac
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nexa-hr.git
-   cd nexa-hr
+   git clone https://github.com/dhanush-chanchali/-nexa-HR-INTELLIGENT-HR-WORKFORCE-PLATFORM.git
+   cd -nexa-HR-INTELLIGENT-HR-WORKFORCE-PLATFORM
    ```
 
 2. **Install dependencies:**
